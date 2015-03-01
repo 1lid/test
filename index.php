@@ -1,5 +1,4 @@
 <?php
-
-echo 'test1';
+echo 'GO GO GO';
 
 ?>
